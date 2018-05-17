@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none !important; }
+
+a {
+  color: #232323; }
+  a:hover {
+    text-decoration: none;
+    color: #232323; }
+
+body {
+  height: 100px;
+  width: 100%; }
